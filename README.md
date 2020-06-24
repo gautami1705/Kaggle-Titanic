@@ -1,1 +1,1 @@
-# Kaggle-Titanic(ML)
+# Kaggle-Titanic
